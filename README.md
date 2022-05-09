@@ -1,3 +1,3 @@
 # chatbots-data-analysis
 
-tf-idf mining history from chatbot
+tf-idf from mining history from chatbot
