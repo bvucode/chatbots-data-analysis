@@ -1,3 +1,3 @@
 # chatbots-data-analysis
 
-tf-idf of history from chatbot
+tf-idf words of chatbot
